@@ -1,4 +1,4 @@
 #Just some text
 
 
-Added a new text
+Added a new text!
